@@ -1,4 +1,5 @@
 #School Management Application 📚🎓
+</br>
 ---Under Construction--
 A streamlined School Management Application built on the MERN stack (MongoDB, Express.js, React.js, Node.js) with Tailwind CSS for styling. This app efficiently manages students, teachers, and classes, along with providing analytics and CRUD operations.
 
